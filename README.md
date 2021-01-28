@@ -1,2 +1,5 @@
 # Nancy_App_test
-利用Android studio進行練習
+<h1>利用Android studio進行練習<br>
+  log:<br>
+  20210128開始進行github資料保留
+
